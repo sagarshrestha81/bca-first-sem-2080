@@ -18,7 +18,7 @@ header .logo img{
  .bottom-header{
     display: flex;
     justify-content: space-around;
-    background: #8c0196;
+    background: #01964b;
     color: #ffffff;
     align-items: center;
     position: sticky;
